@@ -21,8 +21,7 @@
         <!-- Google Maps API Key -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCBJqDAweFJUVEXUopLLPVHu_MJsKRd8m0" />
-
+            android:value="YOUR_GOOGLE_MAPS_API_KEY"
         <!-- App Activities -->
         <activity
             android:name=".FoodEntryActivity"
